@@ -136,14 +136,9 @@ A user interface designed to work smoothly across mobile, tablet, and desktop sc
 
 ---
 
-# Deployment
-
-- Frontend: Vercel
-- Backend: Render
-- Database: MongoDB Atlas
+**Live Demo:** https://eugia-pharma.vercel.app
 
 ---
-
 # How to Run
 
 ## 1. Clone the Repository
